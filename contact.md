@@ -8,22 +8,32 @@ description: "Contact information and Board of Directors"
 
 All communications should go through our Community Manager, Rebekah Rich, at Sentry Management:
 
-<dl class="wide">
-    <dt>Phone</dt><dd>(407) 788-6700 ext. 51107</dd>
-    <dt>Fax</dt><dd>(407) 788-7488</dd>
-    <dt>E-Mail</dt><dd><a href="mailto:rrich@sentrymgt.com">rrich@sentrymgt.com</a></dd>
-    <dt>Regular Mail</dt><dd>Sentry Management Inc.<br />
-    2180 West SR 434 Suite 5000<br />
-    Longwood, FL 327797</dd>
-</dl>
+Phone
+: (407) 788-6700 ext. 51107
+
+Fax
+: (407) 788-7488
+
+E-Mail
+: <rrich@sentrymgt.com>
+
+Regular Mail
+: Sentry Management Inc.\\
+2180 West SR 434 Suite 5000\\
+Longwood, FL 327797
+{: .wide}
 
 ## Board Members
 
-<dl id="board">
-    <dt>President</dt><dd>Bonnie Smith</dd>
-    <dt>Vice President</dt><dd>Sarah Noreen</dd>
-    <dt>Secretary/Treasurer</dt><dd>Jacob Bates</dd>
-</dl>
+President
+: Bonnie Smith
+
+Vice President
+: Sarah Noreen
+
+Secretary/Treasurer
+: Jacob Bates
+{: #board}
 
 ## Board Meetings
 
