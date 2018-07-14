@@ -52,19 +52,19 @@ nav {
 	margin: 0px auto;
 	height: 45px;
 	background: #000762; /* Old browsers */
-	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMDc2MiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjIwJSIgc3RvcC1jb2xvcj0iIzBkMTg2YiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzBmMWI2OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjgwJSIgc3RvcC1jb2xvcj0iIzBkMTg2YiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDA3NjIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
 	background: -moz-linear-gradient(top,  #000762 0%, #0d186b 20%, #0f1b68 50%, #0d186b 80%, #000762 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000762), color-stop(20%,#0d186b), color-stop(50%,#0f1b68), color-stop(80%,#0d186b), color-stop(100%,#000762)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top,  #000762 0%,#0d186b 20%,#0f1b68 50%,#0d186b 80%,#000762 100%); /* Chrome10+,Safari5.1+ */
 	background: -o-linear-gradient(top,  #000762 0%,#0d186b 20%,#0f1b68 50%,#0d186b 80%,#000762 100%); /* Opera 11.10+ */
 	background: -ms-linear-gradient(top,  #000762 0%,#0d186b 20%,#0f1b68 50%,#0d186b 80%,#000762 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #000762 0%,#0d186b 20%,#0f1b68 50%,#0d186b 80%,#000762 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000762', endColorstr='#000762',GradientType=0 ); /* IE6-8 */
 } 
 
 nav ol {
 	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
 }
 
 nav ol li {
@@ -157,19 +157,12 @@ article dl.wide dd {
 	width: 500px;
 }
 
-ul.posts {
-	padding-left: 0px;
-}
-
-ul.posts>li {
-	list-style-type: none;
+p.alert {
 	border: 1px solid #999;
-	padding: 15px;
+	padding: 10px 15px;
 	margin-bottom: 10px;
-}
-
-ul.posts>li>p:first-child {
-	margin-top: 0px;
+	font-size: 120%;
+	line-height: 1.4;
 }
 
 footer {
