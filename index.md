@@ -13,7 +13,7 @@ Our mission statement is to maintain and improve home values and promote unity i
 
 Below is a brief explanation of each section of this site:
 
-* [By-Laws](bylaws) - A digital copy of the HOA by-laws.
+* [By-Laws](bylaws) - A quick reference of the HOA by-laws.
 * [Pay Dues](pay_dues) - Deadlines and online payment of your HOA dues.
 * [Architecture Request](architecture_request) - Provides details of the architecture request process and allows you to download the form digitally.
 * [Contact Us](contact) - Contact information and Board of Directors.

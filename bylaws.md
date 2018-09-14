@@ -6,13 +6,13 @@ description: A digital copy of the HOA by-laws
 
 ## Downloads
 
-Download the [By-Laws]({{ site.url }}/assets/files/BPHOA_bylaws_2012.pdf) (PDF, 1.28MB)
+Download the [By-Laws Quick Reference]({{ site.url }}/assets/files/BPHOA_bylaws_quick_reference.pdf) (PDF, 47KB).
 
-Want a shorter version to keep handy?  Download the [By-Laws Quick Reference]({{ site.url }}/assets/files/BPHOA_bylaws_quick_reference.pdf) (PDF, 47KB).
-
-The documents above require Adobe Acrobat Reader.  Use the link below to download it for free:
+The document above requires Adobe Acrobat Reader.  Use the link below to download it for free:
 
 {% include acrobat.html %}
+
+If you would like a copy of the complete by-laws document, please contact Rebekah Rich at <rrich@sentrymgt.com>.
 
 ## Common Violations
 
