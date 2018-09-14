@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Next Board Meeting:** We will have a Board/Budget meeting on Thursday, September 6th at 6pm at [East Lake Elementary School](https://goo.gl/maps/kSfyNSUFMPE2)\\
+**Board Meeting:** Thursday, October 4th at 6:30pm at [East Lake Elementary School](https://goo.gl/maps/kSfyNSUFMPE2)\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
