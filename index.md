@@ -3,10 +3,6 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Thursday, October 4th at 6:30pm at [East Lake Elementary School](https://goo.gl/maps/kSfyNSUFMPE2)\\
-Please see the [Contact Us](contact) page for details about Board Meetings.
-{: .alert}
-
 Established in 1996, Bonneville Pines homeowner's association is a non-profit community association.
 
 Our mission statement is to maintain and improve home values and promote unity in our community by protecting and safeguarding the conservation areas, enforcing compliance of established by-laws and creating a safe environment for the community.
