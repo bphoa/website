@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Tuesday, November 6th at 6:30pm at [East Lake Elementary School](https://goo.gl/maps/kSfyNSUFMPE2)\\
+**Board Meeting:** Wednesday, December 5th at 5:30pm at [(877) 225-6255](tel:1-877-225-6255) passcode 0100000#\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
