@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Thursday, May 2nd at 6:00pm at [East Lake Elementary School](https://goo.gl/maps/kSfyNSUFMPE2)\\
+**Board Meeting:** Thursday, July 25th at 6:00pm.  Location to be determined.\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
