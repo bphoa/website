@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Thursday, July 25th at 6:00pm.  Location to be determined.\\
+**Annual Meeting:** Thursday, July 25th at 6:00pm at the [Sentry Management Offices in Longwood](https://goo.gl/maps/kES6NUNrwG6NPkdX9)\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
