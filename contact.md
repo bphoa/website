@@ -6,16 +6,16 @@ description: "Contact information and Board of Directors"
 
 ## Contact Information
 
-All communications should go through our Community Manager, Rebekah Rich, at Sentry Management:
+All communications should go through our Community Manager, L.Sharisse Butterfield, at Sentry Management:
 
 Phone
-: (407) 788-6700 ext. 51107
+: (407) 788-6700 ext. 51118
 
 Fax
 : (407) 788-7488
 
 E-Mail
-: <rrich@sentrymgt.com>
+: <lbutterfield@sentrymgt.com>
 
 Regular Mail
 : Sentry Management Inc.\\
