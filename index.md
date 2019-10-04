@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Annual Meeting:** Tuesday, October 8th at 6:15pm in the [Bonneville Elementary School](https://goo.gl/maps/YqFicSoGh6mzN7dT6) cafeteria\\
+**2020 Proposed Budget Meeting:** Tuesday, October 8th at 6:15pm in the [Bonneville Elementary School](https://goo.gl/maps/YqFicSoGh6mzN7dT6) cafeteria\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
