@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Annual Meeting:** Thursday, July 25th at 6:00pm at the [Sentry Management Offices in Longwood](https://goo.gl/maps/kES6NUNrwG6NPkdX9)\\
+**Annual Meeting:** Tuesday, October 8th at 6:15pm in the [Bonneville Elementary School](https://goo.gl/maps/YqFicSoGh6mzN7dT6) cafeteria\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
