@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting and Community Potluck:** Saturday, December 7th from 1:30-3:30pm at [Bonneville Elementary School](https://goo.gl/maps/YqFicSoGh6mzN7dT6)\\
+**Annual Meeting and Election of Directors of the Association:** Tuesday, February 4th at 7:00pm at [Bonneville Elementary School](https://goo.gl/maps/YqFicSoGh6mzN7dT6)\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
