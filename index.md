@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Annual Meeting and Election of Directors of the Association:** Tuesday, February 4th at 7:00pm at [Bonneville Elementary School](https://goo.gl/maps/YqFicSoGh6mzN7dT6)\\
+**Board Meeting:** Wednesday, April 29th at 7:00pm [Online using GoToMeeting](https://global.gotomeeting.com/join/820052717)\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
