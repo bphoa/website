@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Wednesday, April 29th at 7:00pm [Online using GoToMeeting](https://global.gotomeeting.com/join/820052717)\\
+**Board Meeting:** Meeting to be rescheduled due to an emergency.\\~~Wednesday, April 29th at 7:00pm [Online using GoToMeeting](https://global.gotomeeting.com/join/820052717)~~\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
