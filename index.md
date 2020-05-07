@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Thursday, May 7th at 7:00pm [Online using GoToMeeting](https://global.gotomeeting.com/join/820052717)\\
+**Board Meeting:** Thursday, May 7th at 7:00pm [Online using GoToMeeting](https://global.gotomeeting.com/join/210663685) or over the phone at +1 (786) 535-3211 (Access code: 210-663-685)\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
