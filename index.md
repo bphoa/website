@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Thursday, May 7th at 7:00pm [Online using GoToMeeting](https://global.gotomeeting.com/join/210663685) or over the phone at +1 (786) 535-3211 (Access code: 210-663-685)\\
+**2021 Proposed Budget Meeting:** Thursday, October 29th from 7-9pm EDT [Online using GoToMeeting](https://global.gotomeeting.com/join/817367509) or over the phone at +1 (872) 240-3311 (Access code: 817-367-509)\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
