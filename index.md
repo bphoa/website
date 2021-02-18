@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**2021 Annual Meeting:** Wednesday, February 18th from 6:30-8:30pm EST [Online using GoToMeeting](https://global.gotomeeting.com/join/695745469) or over the phone at +1 (646) 749-3122  (Access code: 695-745-469 )\\
+**Next Board Meeting:** Wednesday, February 18th from 6:30-8:30pm EST [Online using GoToMeeting](https://global.gotomeeting.com/join/695745469) or over the phone at +1 (646) 749-3122  (Access code: 695-745-469 )\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
