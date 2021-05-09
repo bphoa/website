@@ -6,7 +6,7 @@ description: "Contact information and Board of Directors"
 
 ## Contact Information
 
-All communications should go through our Community Manager, L.Sharisse Butterfield, at Sentry Management:
+All communications should go through our Community Manager, Jennifer Chapman, at Sentry Management:
 
 Phone
 : (407) 788-6700 ext. 51118
@@ -15,12 +15,12 @@ Fax
 : (407) 788-7488
 
 E-Mail
-: <lbutterfield@sentrymgt.com>
+: <jchapman@sentrymgt.com>
 
 Regular Mail
 : Sentry Management Inc.\\
 2180 West SR 434 Suite 5000\\
-Longwood, FL 327797
+Longwood, FL 32779
 {: .wide}
 
 ## Board Members
