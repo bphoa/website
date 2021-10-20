@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Next Board Meeting:** Wednesday, February 18th from 6:30-8:30pm EST [Online using GoToMeeting](https://global.gotomeeting.com/join/695745469) or over the phone at +1 (646) 749-3122  (Access code: 695-745-469 )\\
+**Next Board Meeting:** Monday, December 13th from 7:00-8:00pm EST.  Location to be announced.\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
