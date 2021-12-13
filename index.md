@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Next Board Meeting:** Monday, December 13th from 7:00-8:00pm EST.  Location to be announced.\\
+**Next Board Meeting:** TBD\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
