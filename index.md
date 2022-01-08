@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Next Board Meeting:** Tuesday, January 11th from 7-8:30pm EST [Online Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTI3ZGZlMmUtNzljMy00MjQyLThmZWItNmQ1NGQ4ZWI1NTM1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%222bc7e669-8d10-42dc-9b65-50ce9c280aba%22%7d) or over the phone at +1 (321) 754-9506  (Access code: 327 797 520# )\\
+**Next Board Meeting:** Tuesday, January 11th from 7-8:30pm EST [Online using Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTI3ZGZlMmUtNzljMy00MjQyLThmZWItNmQ1NGQ4ZWI1NTM1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%222bc7e669-8d10-42dc-9b65-50ce9c280aba%22%7d) or over the phone at +1 (321) 754-9506  (Access code: 327 797 520# )\\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
