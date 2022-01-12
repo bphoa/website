@@ -31,8 +31,11 @@ President
 Vice President
 : Sarah Noreen
 
-Secretary/Treasurer
+Treasurer
 : Jacob Bates
+
+Secretary
+: Jennifer Beye
 {: #board}
 
 ## Board Meetings
