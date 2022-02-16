@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Annual Meeting:** Friday, February 25th from 6:30pm EST Location TBA\\
+**Annual Meeting:** Friday, February 25th from 6:30pm EST [Online Via Zoom](https://zoom.us/j/2040595864) or By Phone: <a href="tel:+13017158592">(301) 715-8592</a> and dialing 204 059 5864# \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
