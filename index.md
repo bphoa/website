@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Annual Meeting:** Monday, September 26th from 7-8pm EST [Online Via Teams](https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting) (Meeting ID: 241 207 699 360, Passcode: 3xCfqA) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 540 406 342# \\
+**Annual Meeting:** Thursday, October 6th from 7-8pm EDT [Online Via Teams](https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting) (Meeting ID: 241 207 699 360, Passcode: 3xCfqA) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 540 406 342# \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
