@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Special Meeting:** Friday, November 11th from 6-6:30pm EDT [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzE3YWI5ODUtYTFiOC00OTE5LWJhNGMtNWExMTkwMGU4MzA1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 263 024 903 207, Passcode: TMBQh3) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 916 921 738# \\
+**Special Meeting:** Tuesday, December 13th from 7-7:30pm EDT [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzE3YWI5ODUtYTFiOC00OTE5LWJhNGMtNWExMTkwMGU4MzA1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 263 024 903 207, Passcode: TMBQh3) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 916 921 738# \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
