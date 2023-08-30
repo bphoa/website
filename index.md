@@ -4,6 +4,7 @@ title: Welcome
 ---
 
 **Board Meeting:** Friday, September 1st from 4-5pm EDT [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdhYzQ1YTEtNjU4Yi00ODBlLTk5ZWQtNjEwM2ZjZjU3N2Zm%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 228 223 224 625, Passcode: gwKe56) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 562 577 503# \\
+[Download the Meeting Agenda]({{ site.url }}/assets/files/011390_BOD_agenda_0923.docx) (DOCX, 16KB) \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
