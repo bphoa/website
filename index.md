@@ -3,8 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Friday, September 1st from 4-5pm EDT Online Via Teams (Meeting ID: 218 748 644 840, Passcode: vSSSbe) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 910 460 344# \\
-[Download the Meeting Agenda]({{ site.url }}/assets/files/011390_BOD_agenda_1023.pdf) (PDF, 42KB) \\
+**Annual Meeting:** Friday, February 16th from 4-5pm EST [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MwOWFmMGUtNTc1Zi00MzFkLWEwMGMtMDljMDU4MzAyOWFi%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 239 826 823 613, Passcode: LBdoDv) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 123 732 592# \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
