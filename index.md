@@ -3,8 +3,8 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Tuesday, October 15th from 6-7pm EDT [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDlkNjJlODItMjgyMC00MDFiLTkxNjctZjlmMDI1M2YxYWUx%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 262 528 226 459, Passcode: 22X2zW) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 800 686 810# \\
-[Download the Meeting Agenda]({{ site.url }}/assets/files/011390_BOD_agenda_1024.pdf) (PDF, 152KB) \\
+**Board Meeting:** Tuesday, November 24th from 5-5:30pm EDT [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBlODdhYTQtMjcwMi00NzU5LTg3NmEtMWIzOTZiZmYzYzc5%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 212 909 325 814, Passcode: is2HN7) or By Phone: <a href="tel:+13217549506">(321) 754-9506</a> with phone conference ID 203 808 771# \\
+[Download the Meeting Agenda]({{ site.url }}/assets/files/011390_SBOD_agenda_1124.pdf) (PDF, 113KB) \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
