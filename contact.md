@@ -9,7 +9,7 @@ description: "Contact information and Board of Directors"
 All communications should go through our Community Manager, Yenny Perez, at Sentry Management:
 
 Phone
-: (407) 788-6700 ext. 51411
+: (407) 788-6700 ext. 51423
 
 Fax
 : (407) 788-7488
@@ -31,11 +31,8 @@ President
 Vice President
 : Sarah Noreen
 
-Treasurer
+Secretary/Treasurer
 : Jacob Bates
-
-Secretary
-: Jennifer Beye
 {: #board}
 
 ## Board Meetings
