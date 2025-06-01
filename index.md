@@ -3,8 +3,8 @@ layout: page
 title: Welcome
 ---
 
-**Annual Board Meeting:** Tuesday, February 11th from 6-7pm EST [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDI4ZDY5MzAtZjAzOS00MDA3LWI3ZjAtMTNiNmNhMjEyZDcx%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 297 085 012 847, Passcode: Li5WNt) or By Phone: <a href="tel:+13217549506,,265700588">(321) 754-9506</a> with phone conference ID 265 700 588# \\
-[Download the Meeting Agenda]({{ site.url }}/assets/files/annual_mtg_agenda_021125.pdf) (PDF, 190KB) \\
+**Board Meeting:** Monday, June 2nd from 6-7pm EDT [Online Via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGE5MGMyZjMtY2U2Yy00MDQ0LWFmNWYtNmE4YzJiOWMxMzM3%40thread.v2/0?context=%7b%22Tid%22%3a%22a1cf3136-ea50-4354-ad39-345d96aeab4c%22%2c%22Oid%22%3a%22f0ada0c0-6bc6-494a-94e2-e93bbd59498c%22%7d) (Meeting ID: 222 662 715 277 4, Passcode: RU9zy77p) or By Phone: <a href="tel:+13217549506,,734496237">(321) 754-9506</a> with phone conference ID 734 496 237# \\
+[Download the Meeting Agenda]({{ site.url }}/assets/files/011390_BOD_agenda_0625.pdf) (PDF, 161KB) \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
