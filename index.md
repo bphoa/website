@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Monday, September 15th from 6-8pm EDT [Online Via Teams](https://teams.microsoft.com/meet/264114896348732?p=Dt1pcnBHDQeirerpEP) (Meeting ID: 264 114 896 348 732, Passcode: 8jt3Ay2V) or By Phone: <a href="tel:+13217549506,,734496237">(321) 754-9506</a> with phone conference ID 266 154 528# \\
+**Board Meeting:** Thursday, August 27th from 6-8pm EDT [Online Via Teams](https://teams.microsoft.com/meet/264114896348732?p=Dt1pcnBHDQeirerpEP) (Meeting ID: 264 114 896 348 732, Passcode: 8jt3Ay2V) or By Phone: <a href="tel:+13217549506,,266154528#">(321) 754-9506</a> with phone conference ID 266 154 528# \\
 [Download the Meeting Agenda]({{ site.url }}/assets/files/Meeting_Notice_8_27_2026.pdf) (PDF, 59KB) \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
