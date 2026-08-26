@@ -3,8 +3,8 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Monday, September 15th from 6-7pm EDT [Online Via Teams](https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_MGI3MzJjZWYtMGJhNy00OGE3LWJkMmYtYzBiZWFjZjIwYjdk%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%2522a1cf3136-ea50-4354-ad39-345d96aeab4c%2522%252c%2522Oid%2522%253a%2522f0ada0c0-6bc6-494a-94e2-e93bbd59498c%2522%257d&sa=D&source=calendar&usd=2&usg=AOvVaw3RQMFKbkYLN7q_-2DCQTsC) (Meeting ID: 241 461 590 500 5, Passcode: Fg22mk27) or By Phone: <a href="tel:+13217549506,,734496237">(321) 754-9506</a> with phone conference ID 606 889 089# \\
-[Download the Meeting Agenda]({{ site.url }}/assets/files/011390_BOD_agenda_0625.pdf) (PDF, 161KB) \\
+**Board Meeting:** Monday, September 15th from 6-8pm EDT [Online Via Teams](https://teams.microsoft.com/meet/264114896348732?p=Dt1pcnBHDQeirerpEP) (Meeting ID: 264 114 896 348 732, Passcode: 8jt3Ay2V) or By Phone: <a href="tel:+13217549506,,734496237">(321) 754-9506</a> with phone conference ID 266 154 528# \\
+[Download the Meeting Agenda]({{ site.url }}/assets/files/Meeting_Notice_8_27_2026.pdf) (PDF, 59KB) \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
