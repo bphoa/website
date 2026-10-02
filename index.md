@@ -3,8 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Board Meeting:** Thursday, August 27th from 6-8pm EDT [Online Via Teams](https://teams.microsoft.com/meet/264114896348732?p=Dt1pcnBHDQeirerpEP) (Meeting ID: 264 114 896 348 732, Passcode: 8jt3Ay2V) or By Phone: <a href="tel:+13217549506,,266154528#">(321) 754-9506</a> with phone conference ID 266 154 528# \\
-[Download the Meeting Agenda]({{ site.url }}/assets/files/Meeting_Notice_8_27_2026.pdf) (PDF, 59KB) \\
+**Annual and Budget Meeting:** Monday, October 5th at 6:30pm EDT [Online Via Teams](https://teams.microsoft.com/meet/280860128695136?p=usXE8zQOIC6iXOurgU) or By Phone: <a href="tel:+13217549506,,280860128695136#">(321) 754-9506</a> with phone conference ID 280 860 128 695 136# \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
