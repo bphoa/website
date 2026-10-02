@@ -6,16 +6,16 @@ description: "Contact information and Board of Directors"
 
 ## Contact Information
 
-All communications should go through our Community Manager, Yenny Perez, at Sentry Management:
+All communications should go through our Community Care Team at Sentry Management:
 
 Phone
-: (407) 788-6700 ext. 51423
+: (407) 788-6700
 
 Fax
 : (407) 788-7488
 
 E-Mail
-: <yperez@sentrymgt.com>
+: <longwood14@sentrymgt.com>
 
 Regular Mail
 : Sentry Management Inc.\\
@@ -26,13 +26,16 @@ Longwood, FL 32779
 ## Board Members
 
 President
-: Bonnie Smith
+: Vacant
 
 Vice President
 : Sarah Noreen
 
 Secretary/Treasurer
 : Jacob Bates
+
+Board Member
+: Ahmad Manraj
 {: #board}
 
 ## Board Meetings
