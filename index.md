@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-**Budget Meeting:** Monday, October 9th at 6:30pm EDT [Online Via Teams](https://teams.microsoft.com/meet/246522773728671?p=TTi1SgIozuj2sVdajU) (Passcode: Bw3BS9oR) or By Phone: <a href="tel:+13217549506,,220977183#">(321) 754-9506</a> with phone conference ID 220 977 183# \\
+**Budget Meeting:** Friday, October 9th at 6:30pm EDT [Online Via Teams](https://teams.microsoft.com/meet/246522773728671?p=TTi1SgIozuj2sVdajU) (Passcode: Bw3BS9oR) or By Phone: <a href="tel:+13217549506,,220977183#">(321) 754-9506</a> with phone conference ID 220 977 183# \\
 Please see the [Contact Us](contact) page for details about Board Meetings.
 {: .alert}
 
